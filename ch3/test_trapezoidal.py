@@ -1,4 +1,5 @@
 from trapezoidal import trapezoidal
+from midpoint import midpoint
 
 def test_trapezoidal_one_exact_result():
 	"""Compare one hand-computed result."""
